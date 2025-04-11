@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Output\\Documentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\ejCustomerPayments\\ejCustomerPayments.Configuration_Ins.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ejCustomerPayments\\ejCustomerPayments.Configuration_Ins.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\ejReservation\\ejReservation.CreditAccount_Authorize.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ejReservation\\ejReservation.CreditAccount_Authorize.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_getobjwithprop_u.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_getobjwithprop_u.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_getobjwithprop.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_getobjwithprop.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_droppropertiesbyid.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_droppropertiesbyid.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_adduserobject.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_adduserobject.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_addtosourcecontrol_u.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_addtosourcecontrol_u.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_addtosourcecontrol.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_addtosourcecontrol.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_dropuserobjectbyid.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_dropuserobjectbyid.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Output\\Documentation\\Mommi\\Mommi.dt_adduserobject_vcs.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mommi\\Mommi.dt_adduserobject_vcs.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejCustomerPayments.Configuration_Ins.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\ejCustomerPayments\\ejCustomerPayments.Configuration_Ins.md",
+              "RelativeDocumentMoniker": "ejCustomerPayments\\ejCustomerPayments.Configuration_Ins.md",
+              "ToolTip": "C:\\Output\\Documentation\\ejCustomerPayments\\ejCustomerPayments.Configuration_Ins.md",
+              "RelativeToolTip": "ejCustomerPayments\\ejCustomerPayments.Configuration_Ins.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-25T12:11:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejReservation.CreditAccount_Authorize.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\ejReservation\\ejReservation.CreditAccount_Authorize.md",
+              "RelativeDocumentMoniker": "ejReservation\\ejReservation.CreditAccount_Authorize.md",
+              "ToolTip": "C:\\Output\\Documentation\\ejReservation\\ejReservation.CreditAccount_Authorize.md",
+              "RelativeToolTip": "ejReservation\\ejReservation.CreditAccount_Authorize.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-25T10:54:36.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mommi.dt_getobjwithprop_u.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_getobjwithprop_u.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_getobjwithprop_u.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_getobjwithprop_u.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_getobjwithprop_u.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-25T10:43:39.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mommi.dt_adduserobject.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_adduserobject.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_adduserobject.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_adduserobject.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_adduserobject.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-24T10:54:45.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mommi.dt_addtosourcecontrol.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_addtosourcecontrol.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_addtosourcecontrol.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_addtosourcecontrol.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_addtosourcecontrol.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-24T10:37:15.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mommi.dt_droppropertiesbyid.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_droppropertiesbyid.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_droppropertiesbyid.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_droppropertiesbyid.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_droppropertiesbyid.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-24T10:36:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mommi.dt_getobjwithprop.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_getobjwithprop.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_getobjwithprop.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_getobjwithprop.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_getobjwithprop.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-24T09:16:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mommi.dt_dropuserobjectbyid.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_dropuserobjectbyid.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_dropuserobjectbyid.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_dropuserobjectbyid.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_dropuserobjectbyid.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-24T09:16:33.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mommi.dt_adduserobject_vcs.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_adduserobject_vcs.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_adduserobject_vcs.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_adduserobject_vcs.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_adduserobject_vcs.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-24T09:16:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mommi.dt_addtosourcecontrol_u.md",
+              "DocumentMoniker": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_addtosourcecontrol_u.md",
+              "RelativeDocumentMoniker": "Mommi\\Mommi.dt_addtosourcecontrol_u.md",
+              "ToolTip": "C:\\Output\\Documentation\\Mommi\\Mommi.dt_addtosourcecontrol_u.md",
+              "RelativeToolTip": "Mommi\\Mommi.dt_addtosourcecontrol_u.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-24T07:08:00.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
